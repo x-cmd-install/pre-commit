@@ -1,17 +1,19 @@
 about:
-  description: A framework for managing and maintaining multi-language pre-commit hooks.
+  description:
+  |
+    A framework for managing and maintaining multi-language pre-commit hooks.
   license: MIT
   homepage: https://pre-commit.com
   head: a9bba55
   archived: false
   latestVersion: v4.6.2
-  collectedAt: 2026-09-03T05:14:27Z
+  collectedAt: 2026-09-03T22:36:00Z
 timeline:
   created: 2014-03-13
   lastCommit: 2026-08-17
   lastRelease: 2026-08-10
 popularity:
-  star: 15551
+  star: 15553
   watcher: 95
   fork: 1003
   release: 119
@@ -28,7 +30,7 @@ language:
   Perl: 104
   Go: 29
   Rust: 13
-totalLine: 609872
+totalBytes: 609872
 recent:
   last30d:
     since: 2026-08-04
