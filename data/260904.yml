@@ -1,0 +1,66 @@
+about:
+  description:
+  |
+    A framework for managing and maintaining multi-language pre-commit hooks.
+  license: MIT
+  homepage: https://pre-commit.com
+  head: a9bba55
+  archived: false
+  latestVersion: v4.6.2
+  collectedAt: 2026-09-04T04:19:25Z
+timeline:
+  created: 2014-03-13
+  lastCommit: 2026-08-17
+  lastRelease: 2026-08-10
+popularity:
+  star: 15554
+  watcher: 95
+  fork: 1003
+  release: 119
+  contributor: 137
+  pullRequest: 335
+  issue: 2307
+language:
+  Python: 593801
+  R: 12037
+  Shell: 3075
+  Dockerfile: 406
+  Lua: 212
+  Ruby: 195
+  Perl: 104
+  Go: 29
+  Rust: 13
+totalBytes: 609872
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-06-06
+    release: 2
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 16
+    openIssue: 0
+    commit: 9
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 17
+    openPR: 0
+    closedIssue: 39
+    openIssue: 1
+    commit: 20
+  last360d:
+    since: 2025-09-09
+    release: 6
+    mergedPR: 38
+    openPR: 1
+    closedIssue: 91
+    openIssue: 1
+    commit: 44
