@@ -5,19 +5,19 @@ about:
   head: a9bba55
   archived: false
   latestVersion: "v4.6.2"
-  collectedAt: 2026-09-07T05:21:48Z
+  collectedAt: 2026-09-07T19:15:23Z
 timeline:
   created: 2014-03-13
   lastCommit: 2026-08-17
   lastRelease: 2026-08-10
 popularity:
-  star: 15559
+  star: 15562
   watcher: 96
   fork: 1007
   release: 119
   contributor: 137
   pullRequest: 1387
-  issue: 2307
+  issue: 2308
 language:
   Python: 593801
   R: 12037
@@ -35,7 +35,7 @@ recent:
     release: 1
     mergedPR: 2
     openPR: 0
-    closedIssue: 3
+    closedIssue: 4
     openIssue: 0
     commit: 1
   last60d:
@@ -43,7 +43,7 @@ recent:
     release: 2
     mergedPR: 6
     openPR: 0
-    closedIssue: 12
+    closedIssue: 13
     openIssue: 0
     commit: 7
   last90d:
@@ -51,7 +51,7 @@ recent:
     release: 2
     mergedPR: 7
     openPR: 0
-    closedIssue: 15
+    closedIssue: 16
     openIssue: 0
     commit: 9
   last180d:
@@ -59,7 +59,7 @@ recent:
     release: 3
     mergedPR: 17
     openPR: 0
-    closedIssue: 36
+    closedIssue: 37
     openIssue: 1
     commit: 20
   last360d:
@@ -67,7 +67,7 @@ recent:
     release: 6
     mergedPR: 38
     openPR: 1
-    closedIssue: 90
+    closedIssue: 91
     openIssue: 1
     commit: 44
   last720d:
@@ -75,19 +75,19 @@ recent:
     release: 11
     mergedPR: 76
     openPR: 4
-    closedIssue: 243
+    closedIssue: 244
     openIssue: 3
     commit: 174
 total:
   release: 119
   mergedPR: 1052
   openPR: 8
-  closedIssue: 2289
+  closedIssue: 2290
   openIssue: 18
   commit: 2857
 ---
 path: /home/runner/.x-repo/github.com/pre-commit/pre-commit
-collectedAt: 2026-09-07T05:21:50Z
+collectedAt: 2026-09-07T19:15:24Z
 loc:
   Python:
     code: 14740
@@ -272,7 +272,7 @@ checks:
       - 'Warn: 0 commits out of 27 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:22:01+00:00
+  collectedAt: 2026-09-07T19:15:25+00:00
   platform:
     darwin/arm64:
       name:  null
