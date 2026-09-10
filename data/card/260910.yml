@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.6.2"
   latestRelease: "v4.6.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:38:54Z
+  collectedAt: 2026-09-10T17:29:17Z
 timeline:
   created: 2014-03-13
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-10
   lastPrerelease: 
 popularity:
-  star: 15568
+  star: 15567
   watcher: 96
   fork: 1010
   release: 119
@@ -91,7 +91,7 @@ total:
   commit: 2857
 ---
 path: /home/runner/.x-repo/github.com/pre-commit/pre-commit
-collectedAt: 2026-09-10T05:38:55Z
+collectedAt: 2026-09-10T17:29:20Z
 loc:
   Python:
     code: 14740
