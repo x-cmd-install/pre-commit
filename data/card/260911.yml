@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.6.2"
   latestRelease: "v4.6.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:24:30Z
+  collectedAt: 2026-09-11T19:35:47Z
 timeline:
   created: 2014-03-13
   lastCommit: 2026-08-17
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 1
-    openPR: 1
+    openPR: 0
     closedIssue: 4
     openIssue: 0
     commit: 1
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-13
     release: 2
     mergedPR: 5
-    openPR: 1
+    openPR: 0
     closedIssue: 13
     openIssue: 0
     commit: 7
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-13
     release: 2
     mergedPR: 7
-    openPR: 1
+    openPR: 0
     closedIssue: 15
     openIssue: 0
     commit: 9
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-15
     release: 3
     mergedPR: 17
-    openPR: 1
+    openPR: 0
     closedIssue: 35
     openIssue: 1
     commit: 20
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-16
     release: 6
     mergedPR: 38
-    openPR: 2
+    openPR: 1
     closedIssue: 91
     openIssue: 1
     commit: 44
@@ -78,20 +78,20 @@ recent:
     since: 2024-09-21
     release: 11
     mergedPR: 75
-    openPR: 5
+    openPR: 4
     closedIssue: 242
     openIssue: 3
     commit: 170
 total:
   release: 119
   mergedPR: 1052
-  openPR: 9
+  openPR: 8
   closedIssue: 2290
   openIssue: 18
   commit: 2857
 ---
 path: /home/runner/.x-repo/github.com/pre-commit/pre-commit
-collectedAt: 2026-09-11T05:24:31Z
+collectedAt: 2026-09-11T19:35:50Z
 loc:
   Python:
     code: 14740
