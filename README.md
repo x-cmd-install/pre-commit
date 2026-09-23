@@ -4,7 +4,7 @@
 
 A framework for managing and maintaining multi-language pre-commit hooks.
 
-[![x-cmd/install — pre-commit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pre-commit.svg)](https://x-cmd.com/install/pre-commit)
+[![x-cmd/install — pre-commit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pre-commit.svg)](https://x-cmd.com/install/pre-commit)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/12 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 2/12 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,589 · **Forks**: 1,010 · **Open issues**: 2,310 · **Contributors**: 137
+- **Stars**: 15,592 · **Forks**: 1,011 · **Open issues**: 2,311 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 1052 · **Open PRs**: 8 · **Closed issues**: 2292 · **Open issues**: 18 · **Commits**: 2857
+- **Releases**: 119 · **Merged PRs**: 1052 · **Open PRs**: 8 · **Closed issues**: 2293 · **Open issues**: 18 · **Commits**: 2857
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 4 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 2 | 0 | 10 | 0 | 3 |
-| 90d | 2026-06-24 | 2 | 6 | 0 | 15 | 0 | 8 |
-| last180d | 2026-03-26 | 3 | 16 | 0 | 36 | 1 | 19 |
-| 360d | 2025-09-27 | 6 | 37 | 1 | 90 | 1 | 43 |
-| last720d | 2024-10-02 | 11 | 70 | 4 | 239 | 3 | 156 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 5 | 0 | 0 |
+| last60d | 2026-07-25 | 1 | 2 | 0 | 11 | 0 | 3 |
+| 90d | 2026-06-25 | 2 | 6 | 0 | 16 | 0 | 8 |
+| last180d | 2026-03-27 | 3 | 16 | 0 | 37 | 1 | 19 |
+| 360d | 2025-09-28 | 6 | 37 | 1 | 91 | 1 | 43 |
+| last720d | 2024-10-03 | 11 | 70 | 4 | 239 | 3 | 156 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for pre-commit lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:42:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:42:55Z._
