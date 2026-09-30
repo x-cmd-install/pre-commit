@@ -30,8 +30,8 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 2/12 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.6.2` (2026-08-10)
-- **Last commit**: 2026-08-17
+- **Last commit**: 2026-09-29
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 15,600 · **Forks**: 1,012 · **Open issues**: 2,311 · **Contributors**: 137
+- **Stars**: 15,603 · **Forks**: 1,012 · **Open issues**: 2,311 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 1052 · **Open PRs**: 9 · **Closed issues**: 2294 · **Open issues**: 17 · **Commits**: 2857
+- **Releases**: 119 · **Merged PRs**: 1054 · **Open PRs**: 8 · **Closed issues**: 2294 · **Open issues**: 17 · **Commits**: 2861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 1 | 4 | 0 | 0 |
-| last60d | 2026-07-31 | 1 | 2 | 1 | 11 | 0 | 3 |
-| 90d | 2026-07-01 | 2 | 6 | 1 | 16 | 0 | 8 |
-| last180d | 2026-04-02 | 3 | 16 | 1 | 32 | 1 | 18 |
-| 360d | 2025-10-04 | 6 | 37 | 2 | 88 | 1 | 43 |
-| last720d | 2024-10-09 | 9 | 67 | 5 | 236 | 3 | 148 |
+| 30d | 2026-08-31 | 0 | 2 | 0 | 4 | 0 | 0 |
+| last60d | 2026-08-01 | 1 | 4 | 0 | 11 | 0 | 0 |
+| 90d | 2026-07-02 | 2 | 8 | 0 | 16 | 0 | 0 |
+| last180d | 2026-04-03 | 3 | 18 | 0 | 32 | 1 | 0 |
+| 360d | 2025-10-05 | 6 | 39 | 1 | 87 | 1 | 0 |
+| last720d | 2024-10-10 | 9 | 69 | 4 | 236 | 3 | 152 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for pre-commit lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:20:03Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:08:14Z._

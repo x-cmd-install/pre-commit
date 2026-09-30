@@ -30,8 +30,8 @@ x install pre-commit
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 2/12 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -43,27 +43,27 @@ x install pre-commit
 ## 发布
 
 - **最新版本**: `v4.6.2` (2026-08-10)
-- **最近提交**: 2026-08-17
+- **最近提交**: 2026-09-29
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 15,600 · **Fork**: 1,012 · **开放 issue**: 2,311 · **贡献者**: 137
+- **Star**: 15,603 · **Fork**: 1,012 · **开放 issue**: 2,311 · **贡献者**: 137
 
 ## 累计统计
 
-- **发布数**: 119 · **已合并 PR**: 1052 · **开放 PR**: 9 · **已关闭 issue**: 2294 · **开放 issue**: 17 · **提交数**: 2857
+- **发布数**: 119 · **已合并 PR**: 1054 · **开放 PR**: 8 · **已关闭 issue**: 2294 · **开放 issue**: 17 · **提交数**: 2861
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 1 | 4 | 0 | 0 |
-| last60d | 2026-07-31 | 1 | 2 | 1 | 11 | 0 | 3 |
-| 90d | 2026-07-01 | 2 | 6 | 1 | 16 | 0 | 8 |
-| last180d | 2026-04-02 | 3 | 16 | 1 | 32 | 1 | 18 |
-| 360d | 2025-10-04 | 6 | 37 | 2 | 88 | 1 | 43 |
-| last720d | 2024-10-09 | 9 | 67 | 5 | 236 | 3 | 148 |
+| 30d | 2026-08-31 | 0 | 2 | 0 | 4 | 0 | 0 |
+| last60d | 2026-08-01 | 1 | 4 | 0 | 11 | 0 | 0 |
+| 90d | 2026-07-02 | 2 | 8 | 0 | 16 | 0 | 0 |
+| last180d | 2026-04-03 | 3 | 18 | 0 | 32 | 1 | 0 |
+| 360d | 2025-10-05 | 6 | 39 | 1 | 87 | 1 | 0 |
+| last720d | 2024-10-10 | 9 | 69 | 4 | 236 | 3 | 152 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ pre-commit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:20:04Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:08:15Z._
