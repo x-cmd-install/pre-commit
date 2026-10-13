@@ -14,11 +14,11 @@ x install pre-commit
 
 ## Code insight
 
-Total: **15,215** lines of code across **157** files in the top 5 languages.
+Total: **15,232** lines of code across **157** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 14,741 | 527 | 3,694 | 139 |
+| Python | 14,758 | 529 | 3,699 | 139 |
 | R | 269 | 49 | 122 | 1 |
 | Sh | 63 | 19 | 13 | 13 |
 | ForgeConfig | 54 | 0 | 9 | 1 |
@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 3/12 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.6.2` (2026-08-10)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-12
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 15,623 · **Forks**: 1,015 · **Open issues**: 2,318 · **Contributors**: 137
+- **Stars**: 15,624 · **Forks**: 1,014 · **Open issues**: 2,318 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 1057 · **Open PRs**: 9 · **Closed issues**: 2300 · **Open issues**: 18 · **Commits**: 2868
+- **Releases**: 119 · **Merged PRs**: 1059 · **Open PRs**: 8 · **Closed issues**: 2301 · **Open issues**: 17 · **Commits**: 2873
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 5 | 1 | 9 | 1 | 6 |
-| last60d | 2026-08-13 | 0 | 6 | 1 | 13 | 1 | 6 |
-| 90d | 2026-07-14 | 2 | 10 | 1 | 22 | 1 | 12 |
-| last180d | 2026-04-15 | 3 | 19 | 1 | 35 | 2 | 23 |
-| 360d | 2025-10-17 | 6 | 39 | 2 | 85 | 2 | 46 |
-| last720d | 2024-10-22 | 9 | 71 | 5 | 228 | 4 | 158 |
+| 30d | 2026-09-13 | 0 | 7 | 0 | 10 | 0 | 9 |
+| last60d | 2026-08-14 | 0 | 8 | 0 | 13 | 0 | 9 |
+| 90d | 2026-07-15 | 2 | 11 | 0 | 23 | 0 | 15 |
+| last180d | 2026-04-16 | 3 | 21 | 0 | 36 | 1 | 26 |
+| 360d | 2025-10-18 | 6 | 41 | 1 | 85 | 1 | 49 |
+| last720d | 2024-10-23 | 9 | 73 | 4 | 229 | 3 | 161 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for pre-commit lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:33:18Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:32:04Z._
