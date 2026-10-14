@@ -14,7 +14,7 @@ x install pre-commit
 
 ## Code insight
 
-Total: **15,232** lines of code across **157** files in the top 5 languages.
+Total: **15,230** lines of code across **157** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,34 +42,34 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.6.2` (2026-08-10)
-- **Last commit**: 2026-10-12
+- **Latest**: `v4.7.0` (2026-10-13)
+- **Last commit**: 2026-10-13
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 15,624 · **Forks**: 1,014 · **Open issues**: 2,318 · **Contributors**: 138
+- **Stars**: 15,628 · **Forks**: 1,014 · **Open issues**: 2,319 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 1059 · **Open PRs**: 8 · **Closed issues**: 2301 · **Open issues**: 17 · **Commits**: 2873
+- **Releases**: 120 · **Merged PRs**: 1060 · **Open PRs**: 8 · **Closed issues**: 2302 · **Open issues**: 17 · **Commits**: 2875
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 7 | 0 | 10 | 0 | 9 |
-| last60d | 2026-08-14 | 0 | 8 | 0 | 13 | 0 | 9 |
-| 90d | 2026-07-15 | 2 | 11 | 0 | 23 | 0 | 15 |
-| last180d | 2026-04-16 | 3 | 21 | 0 | 36 | 1 | 26 |
-| 360d | 2025-10-18 | 6 | 41 | 1 | 85 | 1 | 49 |
-| last720d | 2024-10-23 | 9 | 73 | 4 | 229 | 3 | 161 |
+| 30d | 2026-09-14 | 1 | 8 | 0 | 11 | 0 | 10 |
+| last60d | 2026-08-15 | 1 | 9 | 0 | 14 | 0 | 10 |
+| 90d | 2026-07-16 | 3 | 12 | 0 | 23 | 0 | 16 |
+| last180d | 2026-04-17 | 4 | 22 | 0 | 37 | 1 | 27 |
+| 360d | 2025-10-19 | 7 | 42 | 1 | 85 | 1 | 50 |
+| last720d | 2024-10-24 | 10 | 74 | 4 | 230 | 3 | 163 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pre-commit-4.6.2.pyz](https://github.com/pre-commit/pre-commit/releases/download/v4.6.2/pre-commit-4.6.2.pyz) | 7.2 MiB | `other` |
+| [pre-commit-4.7.0.pyz](https://github.com/pre-commit/pre-commit/releases/download/v4.7.0/pre-commit-4.7.0.pyz) | 7.3 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for pre-commit lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:32:04Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:40:52Z._
