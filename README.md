@@ -26,13 +26,13 @@ Total: **15,230** lines of code across **157** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 3/12 approved changesets -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.7.0` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-20
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 15,642 · **Forks**: 1,020 · **Open issues**: 2,320 · **Contributors**: 138
+- **Stars**: 15,646 · **Forks**: 1,020 · **Open issues**: 2,320 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 1060 · **Open PRs**: 9 · **Closed issues**: 2303 · **Open issues**: 17 · **Commits**: 2875
+- **Releases**: 120 · **Merged PRs**: 1061 · **Open PRs**: 8 · **Closed issues**: 2303 · **Open issues**: 17 · **Commits**: 2877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 8 | 1 | 11 | 0 | 10 |
-| last60d | 2026-08-21 | 1 | 8 | 1 | 14 | 0 | 10 |
-| 90d | 2026-07-22 | 2 | 10 | 1 | 21 | 0 | 13 |
-| last180d | 2026-04-23 | 3 | 20 | 1 | 38 | 1 | 23 |
-| 360d | 2025-10-25 | 7 | 41 | 2 | 85 | 1 | 49 |
-| last720d | 2024-10-30 | 10 | 73 | 5 | 231 | 3 | 161 |
+| 30d | 2026-09-21 | 1 | 9 | 0 | 10 | 0 | 11 |
+| last60d | 2026-08-22 | 1 | 9 | 0 | 14 | 0 | 11 |
+| 90d | 2026-07-23 | 2 | 11 | 0 | 21 | 0 | 14 |
+| last180d | 2026-04-24 | 3 | 21 | 0 | 38 | 0 | 24 |
+| 360d | 2025-10-26 | 7 | 42 | 1 | 85 | 1 | 50 |
+| last720d | 2024-10-31 | 10 | 74 | 4 | 231 | 3 | 163 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for pre-commit lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:22:56Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:15:52Z._
