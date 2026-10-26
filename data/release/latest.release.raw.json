@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7631227,
       "digest": "sha256:393488513aed286d7a5a978a1fe79b2f5a8802927242a2d241ff10c1a8e8c885",
-      "download_count": 48244,
+      "download_count": 52492,
       "created_at": "2026-10-13T15:35:33Z",
       "updated_at": "2026-10-13T15:35:34Z",
       "browser_download_url": "https://github.com/pre-commit/pre-commit/releases/download/v4.7.0/pre-commit-4.7.0.pyz"
@@ -79,14 +79,14 @@
   "reactions": {
     "url": "https://api.github.com/repos/pre-commit/pre-commit/releases/411837464/reactions",
     "total_count": 1,
-    "+1": 0,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
-    "eyes": 1
+    "eyes": 0
   },
   "mentions_count": 1
 }
