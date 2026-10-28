@@ -30,9 +30,9 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,664 · **Forks**: 1,021 · **Open issues**: 2,320 · **Contributors**: 138
+- **Stars**: 15,667 · **Forks**: 1,021 · **Open issues**: 2,322 · **Contributors**: 138
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 1061 · **Open PRs**: 8 · **Closed issues**: 2303 · **Open issues**: 17 · **Commits**: 2877
+- **Releases**: 120 · **Merged PRs**: 1061 · **Open PRs**: 8 · **Closed issues**: 2305 · **Open issues**: 17 · **Commits**: 2877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 9 | 0 | 9 | 0 | 9 |
-| last60d | 2026-08-28 | 1 | 9 | 0 | 13 | 0 | 11 |
-| 90d | 2026-07-29 | 2 | 11 | 0 | 20 | 0 | 14 |
-| last180d | 2026-04-30 | 3 | 20 | 0 | 37 | 0 | 24 |
-| 360d | 2025-11-01 | 7 | 42 | 1 | 84 | 1 | 50 |
-| last720d | 2024-11-06 | 10 | 73 | 4 | 230 | 3 | 163 |
+| 30d | 2026-09-28 | 1 | 8 | 0 | 11 | 0 | 9 |
+| last60d | 2026-08-29 | 1 | 9 | 0 | 15 | 0 | 11 |
+| 90d | 2026-07-30 | 2 | 11 | 0 | 22 | 0 | 14 |
+| last180d | 2026-05-01 | 3 | 20 | 0 | 39 | 0 | 24 |
+| 360d | 2025-11-02 | 7 | 42 | 1 | 86 | 1 | 50 |
+| last720d | 2024-11-07 | 10 | 73 | 4 | 232 | 3 | 163 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for pre-commit lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:42:32Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:24:53Z._
