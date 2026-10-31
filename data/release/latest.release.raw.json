@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7631227,
       "digest": "sha256:393488513aed286d7a5a978a1fe79b2f5a8802927242a2d241ff10c1a8e8c885",
-      "download_count": 93859,
+      "download_count": 103795,
       "created_at": "2026-10-13T15:35:33Z",
       "updated_at": "2026-10-13T15:35:34Z",
       "browser_download_url": "https://github.com/pre-commit/pre-commit/releases/download/v4.7.0/pre-commit-4.7.0.pyz"
